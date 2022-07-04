@@ -1,1 +1,1 @@
-# Simple-communication-sysytem
+# Simple-communication-system
